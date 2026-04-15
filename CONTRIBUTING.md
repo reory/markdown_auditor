@@ -9,7 +9,7 @@ First off, thank you for considering contributing.
 * Open an issue and describe the bug, including your OS and Python version.
 
 ### Suggesting Enhancements
-We love new ideas! Current roadmap goals include:
+New ideas! Current roadmap goals include:
 * **Auto-Fix Mode:** Automatically adding "FIXME" to empty brackets.
 * **Link Validator:** Checking if external URLs return a 404.
 * **Duplicate Detection:** Finding unused image assets.
