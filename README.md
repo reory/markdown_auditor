@@ -92,7 +92,7 @@ Level up from checking if a link is empty to checking if it actually works.
 If you ever use static site generators (like Jekyll, Hugo, or Obsidian), your files usually start with "Frontmatter" (tags, dates, and titles).
 
 - [ ] Duplicate Image Scanner
-Since we are already looking at images, the script could track the filenames of every image used.
+Make a script that could track the filenames of every image used and flag any duplicates.
 
 ---
 
